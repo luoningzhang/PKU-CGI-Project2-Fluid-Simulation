@@ -14,7 +14,7 @@
 
 点击Scenes中的Fluid场景。打开界面如下
 
-![image-20220606000619083](images\image-20220606000619083.png)
+<img src="images\image-20220606000619083.png" style="zoom:80%;" />
 
 空间中有六个玻璃材质的cube构成一个长方体容器
 
